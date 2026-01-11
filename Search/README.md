@@ -12,7 +12,7 @@ Author: Pyare Lal
 - 1.3.2 Breadth-First Search
 - 1.3.3 Uniform Cost Search
 
-1.4 Informed Search
+## 1.4 Informed Search
 
 **Refrences**
 1. Notes from [CS188](https://inst.eecs.berkeley.edu/~cs188/textbook/search/)
