@@ -13,6 +13,7 @@ Author: Pyare Lal
 1.3.3 Uniform Cost Search
 
 1.4 Informed Search
+
 **Refrences**
 1. Notes from [CS188](https://inst.eecs.berkeley.edu/~cs188/textbook/search/)
 2. Slides from [CS188](https://inst.eecs.berkeley.edu/~cs188/fa25/assets/lectures/cs188-fa25-lec02.pdf)
