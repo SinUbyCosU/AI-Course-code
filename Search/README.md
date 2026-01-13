@@ -1,6 +1,12 @@
 # 1. Search
+
+<img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/Search_meaning.png" width=1000>
+
+[Image Source](https://inst.eecs.berkeley.edu/~cs188/sp25/assets/lectures/cs188-sp25-lec01.pdf)
+
 ---
-Author: Pyare Lal
+
+
 ---
 ## 1.1 Agents
 ## 1.2 State Spaces and Search Problems
