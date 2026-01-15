@@ -1,5 +1,7 @@
 # 1. Search
 
+Figuring out what move to make. Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move.
+
 <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/Search_meaning.png" width=1000>
 
 [Image Source](https://inst.eecs.berkeley.edu/~cs188/sp25/assets/lectures/cs188-sp25-lec01.pdf)
@@ -9,6 +11,11 @@
 
 ---
 ## 1.1 Agents
+An entity that perceives its environment and acts upon that environment. In a navigator app, for example, the agent would be a representation of a car that needs to decide on which actions to take to arrive at the destination.
+Agents are that Plans
+
+<img src ="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/Agent.png" width=500>
+
 ## 1.2 State Spaces and Search Problems
 - 1.2.1 State Space Size
 - 1.2.2 State Space Graphs and Search Trees
