@@ -31,6 +31,9 @@ Agents are that Plans
 - **1.3.1 Depth-First Search**
   
 - **1.3.2 Breadth-First Search**
+
+
+  <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/DFS_vs_BFS.png" width=1000>
   
 - **1.3.3 Uniform Cost Search**
   
