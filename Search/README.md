@@ -34,8 +34,10 @@ Agents are that Plans
 
 
   <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/DFS_vs_BFS.png" width=1000>
+
   
 - **1.3.3 Uniform Cost Search**
+  
   <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/Uniform_cost.png" width=500>
 
 ## 1.4 Informed Search
