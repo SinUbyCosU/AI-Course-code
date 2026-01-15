@@ -21,7 +21,7 @@ Agents are that Plans
 - 
   **State**: A configuration of an agent in its environment.
   
-     - Initial State: The state from which the search algorithm starts. In a navigator app, that would be the current location.
+     - **Initial State:** The state from which the search algorithm starts. In a navigator app, that would be the current location.
 - **1.2.2 State Space Graphs and Search Trees**
 - 
 ## 1.3 Uninformed Search
