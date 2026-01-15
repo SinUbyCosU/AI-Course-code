@@ -17,15 +17,18 @@ Agents are that Plans
 <img src ="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/Agent.png" width=500>
 
 ## 1.2 State Spaces and Search Problems
-- 1.2.1 State Space Size
+- **1.2.1 State Space Size***
+- 
   **State**: A configuration of an agent in its environment.
+  
      - Initial State: The state from which the search algorithm starts. In a navigator app, that would be the current location.
-- 1.2.2 State Space Graphs and Search Trees
+- **1.2.2 State Space Graphs and Search Trees**
+- 
 ## 1.3 Uninformed Search
-- 1.3 Uninformed Search
-- 1.3.1 Depth-First Search
-- 1.3.2 Breadth-First Search
-- 1.3.3 Uniform Cost Search
+- **1.3 Uninformed Search**
+- **1.3.1 Depth-First Search**
+- **1.3.2 Breadth-First Search**
+- **1.3.3 Uniform Cost Search**
 
 ## 1.4 Informed Search
 
