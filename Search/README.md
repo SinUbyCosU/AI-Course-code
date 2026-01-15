@@ -18,6 +18,8 @@ Agents are that Plans
 
 ## 1.2 State Spaces and Search Problems
 - 1.2.1 State Space Size
+  **State**: A configuration of an agent in its environment.
+     - Initial State: The state from which the search algorithm starts. In a navigator app, that would be the current location.
 - 1.2.2 State Space Graphs and Search Trees
 ## 1.3 Uninformed Search
 - 1.3 Uninformed Search
