@@ -26,10 +26,14 @@ Agents are that Plans
 ## 1.3 Uninformed Search
 
 - **1.3 Uninformed Search**
+  
   Search strategy that uses no problem specific knowledge.
 - **1.3.1 Depth-First Search**
+  
   - stack
+    
 - **1.3.2 Breadth-First Search**
+  
  - Queque 
 
   <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/DFS_vs_BFS.png" width=1000>
