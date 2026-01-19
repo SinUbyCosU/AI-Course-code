@@ -22,25 +22,26 @@ Agents are that Plans
   **State**: A configuration of an agent in its environment.
   
      - **Initial State:** The state from which the search algorithm starts. In a navigator app, that would be the current location.
-- **1.2.2 State Space Graphs and Search Trees**
-- 
+ 
 ## 1.3 Uninformed Search
 
 - **1.3 Uninformed Search**
-  
+  Search strategy that uses no problem specific knowledge.
 - **1.3.1 Depth-First Search**
-  
+  - stack
 - **1.3.2 Breadth-First Search**
-
+ - Queque 
 
   <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/DFS_vs_BFS.png" width=1000>
 
+[Intersting cartoon video which demonstrate the Stack and Queque](https://www.youtube.com/watch?v=2wM6_PuBIxY)
   
 - **1.3.3 Uniform Cost Search**
   
   <img src="https://github.com/pyarelalchauhan/DSE313_AI/blob/main/Search/Refrence_images/Uniform_cost.png" width=500>
 
 ## 1.4 Informed Search
+Search strategy that uses the knowledge specific to the problem to find the better solution.
 
 **Refrences**
 1. Notes from [CS188](https://inst.eecs.berkeley.edu/~cs188/textbook/search/)
