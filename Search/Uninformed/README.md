@@ -19,8 +19,6 @@ source .venv/bin/activate
 # Windows:
 .venv\Scripts\activate
 
-# Deactivate when done
-deactivate
 ```
 ## For More details follow the [Venv setup based on OS available](https://github.com/pyarelalchauhan/DSP/tree/main/venv_setup#7-uv-modern-python-package-manager)
 
