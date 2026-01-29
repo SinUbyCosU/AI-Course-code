@@ -24,4 +24,7 @@ for i in range(height):
             goal=(i,j)
     print(f"start:{start},goal:{goal}")
 
-#step 3 create walls
+#step 3 create walls for the maze
+walls=[]
+for i in rnage(height):
+    row=[]
