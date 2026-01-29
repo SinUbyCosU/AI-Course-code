@@ -23,3 +23,5 @@ for i in range(height):
         elif lines[i][j]=='B':
             goal=(i,j)
     print(f"start:{start},goal:{goal}")
+
+#step 3 create walls
